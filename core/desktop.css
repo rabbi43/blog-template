@@ -1,0 +1,15 @@
+.row{
+	
+	display:grid;
+	grid-template-columns:auto auto auto;
+	grid-gap:10px;
+}
+
+
+.row .a{
+	
+	grid-column:1 / 2;
+	
+}
+
+
